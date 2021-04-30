@@ -1,4 +1,4 @@
-This is a typescript start
+This is a typescript project on StackBlitz
 
 # typescript-stackblitz-start
 
